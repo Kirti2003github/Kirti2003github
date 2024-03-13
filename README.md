@@ -1,4 +1,4 @@
-Project Namw - Generate Insights to Solve Supply Chain Issue in FMCG Domain [Power BI]
+Project Name - Generate Insights to Solve Supply Chain Issue in FMCG Domain [Power BI]
 
 •	Analyzed customer data, revealing Ahmedabad city as the primary customer base, while identifying critical supply chain performance metrics such as ONTIME%, OTIF%, and IN FULL% using Dax queries.
 
